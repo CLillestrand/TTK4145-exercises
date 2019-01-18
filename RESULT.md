@@ -1,0 +1,1 @@
+The magic number changes and is often not zero. This is due to both treads trying to change the same variabel
